@@ -1,9 +1,0 @@
-name: console_apps
-version: 0.1.0
-
-authors:
-  - Solemarc
-
-crystal: '>= 1.12.1'
-
-license: MIT
