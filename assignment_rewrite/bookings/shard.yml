@@ -1,0 +1,13 @@
+name: bookings
+version: 0.1.0
+
+authors:
+  - Solemarc
+
+targets:
+  bookings:
+    main: src/bookings.cr
+
+crystal: '>= 1.12.2'
+
+license: MIT

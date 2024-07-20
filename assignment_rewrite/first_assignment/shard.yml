@@ -1,0 +1,13 @@
+name: first_assignment
+version: 0.1.0
+
+authors:
+  - Solemarc
+
+targets:
+  first_assignment:
+    main: src/first_assignment.cr
+
+crystal: '>= 1.12.2'
+
+license: MIT
